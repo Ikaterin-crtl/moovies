@@ -1,0 +1,39 @@
+
+body{
+    display: flex;
+    font-family: roboto mono;
+    justify-content: flex-start;
+    flex-direction: row;
+    background-color: #f0fff0;
+    }
+
+
+img{
+    width: 300px;
+    height: 400px;
+    margin-bottom: 10px;
+    margin-top: 100px;
+    border: solid;
+    }
+
+.descrição{
+    font-weight: light;
+    font-family: roboto mono;
+    font-size: 16px;
+    
+}    
+.container{
+    display: grid;
+}
+ 
+.descrição{
+    background-color: #f0e68c;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
